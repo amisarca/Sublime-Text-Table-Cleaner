@@ -1,5 +1,8 @@
 # Table Cleaner for Sublime Text 3
 
+This is a package for **Sublime Text 3**. If you are looking for the package for **Sublime Text 2**, then check [this](https://github.com/amisarca/Sublime-Text-2-Table-Cleaner) repo out.
+
+
 ## What is it for?
 
 Aligns and cleans the tables for a prettier output. Useful for programming languages like Cucumber or LaTex.
