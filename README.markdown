@@ -1,6 +1,6 @@
-# Table Cleaner for Sublime Text 2
+# Table Cleaner for Sublime Text 3
 
-## What it does?
+## What is it for?
 
 Aligns and cleans the tables for a prettier output. Useful for programming languages like Cucumber or LaTex.
 
@@ -24,7 +24,7 @@ If you are using Will Bond's excellent [Sublime Package Control](http://wbond.ne
 
 Alternatively, if you are a git user, you can install the package and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text 2 application settings area.
 
-Go to your Sublime Text 2 `Packages` directory and clone the package repository using the command below:
+Go to your Sublime Text `Packages` directory and clone the package repository using the command below:
 
     git clone https://github.com/mishu91/Sublime-Text-2-Table-Cleaner "Table Cleaner"
 
@@ -32,7 +32,7 @@ Go to your Sublime Text 2 `Packages` directory and clone the package repository 
 
 * Download the files using the GitHub .zip download option
 * Unzip the files and rename the folder to `Table Cleaner`
-* Copy the folder to your Sublime Text 2 `Packages` directory
+* Copy the folder to your Sublime Text `Packages` directory
 
 ## Table Import
 
