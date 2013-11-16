@@ -56,6 +56,4 @@ For cleaning a table pasted from another source press *alt + shift + ;"* and the
 Did you spot any bug or think of a great improvement? Create a new issue, or submit a pull request.
 
 # Changelog
-- 0.2.0 The tables can be aligned by multiple separators at the same time, and the separators can have more than one character; multiple selection works as well; added the table import feature
-- 0.1.0 Added better support for LaTex tables; added more settings to make it more configurable
 - 0.0.1 Initial release
