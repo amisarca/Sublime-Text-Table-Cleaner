@@ -15,10 +15,6 @@ Aligns and cleans the tables for a prettier output. Useful for programming langu
 
 ![Table Cleaner After](https://dl.dropbox.com/u/8314245/TableCleanerAfter.png)
 
-## Installation
-
-This package is also included in the [Sublime Text 2 Cucumber bundle](https://github.com/drewda/cucumber-sublime2-bundle), so if you installed that package, you don't have to install the Table Cleaner package separately 
-
 ### Using Sublime Package Control
 
 If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install the Table Cleaner package via the `Package Control: Install Package` menu item.
@@ -29,7 +25,7 @@ Alternatively, if you are a git user, you can install the package and keep up to
 
 Go to your Sublime Text `Packages` directory and clone the package repository using the command below:
 
-    git clone https://github.com/mishu91/Sublime-Text-2-Table-Cleaner "Table Cleaner"
+    git clone https://github.com/amisarca/Sublime-Text-Table-Cleaner "Table Cleaner"
 
 ### Download Manually
 
