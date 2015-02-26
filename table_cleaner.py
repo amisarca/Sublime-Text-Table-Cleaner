@@ -141,7 +141,7 @@ class TableCleanerCommand(table_commons.TextCommand):
                 if self.align_to_middle:
                     # Determine the number of characters that need to be
                     # inserted to left and to right
-                    l_diff = diff / 2
+                    l_diff = diff // 2
                     r_diff = diff - l_diff
 
                     # If the current column is the first column, do not insert
