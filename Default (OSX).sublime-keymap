@@ -1,4 +1,4 @@
 [
-  { "keys": ["alt+;"], "command": "table_cleaner" },
-  { "keys": ["alt+shift+;"], "command": "table_import" }
+  { "keys": ["ctrl+alt+;"], "command": "table_cleaner" },
+  { "keys": ["ctrl+alt+shift+;"], "command": "table_import" }
 ]
